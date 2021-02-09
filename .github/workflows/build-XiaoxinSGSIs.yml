@@ -69,7 +69,7 @@ jobs:
            sudo rm -rf SGSI-build-tool-11/11/fixbug/fixbug.sh
            sudo rm -rf SGSI-build-tool-11/11/apps_clean/miui.sh
            mv fix/MIUI.sh SGSI-build-tool-11/11/fixbug/fixbug.sh
-           mv app_clean/miui.sh SGSI-build-tool-11/11/apps_clean/miui.sh
+           ##mv app_clean/miui.sh SGSI-build-tool-11/11/apps_clean/miui.sh
            
        - name: Make Flyme SGSI
          if: steps.var.outputs.make_flyme == 'true'
