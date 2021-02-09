@@ -1,9 +1,9 @@
 {
-  "rom_url": "https://hugeota.d.miui.com/21.1.28/miui_CANNON_21.1.28_9174f340b3_11.0.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "https://hugeota.d.miui.com/20.12.4/miui_CEPHEUS_20.12.4_997b4d3894_10.0.zip",
+  "rom_name": "miui_CEPHEUS_20.12.4_997b4d3894_10.0.zip",
+  "pack_sgsi": "m9.20.12.4-z5.7z",
   "rom_type": "AB",
-  "fix_light": true,
+  "fix_light": false,
   "fix_bug": true,
   "make_miui": true,
   "make_flyme": false,
@@ -11,7 +11,7 @@
   "make_h2os": false,
   "make_smartisanos": false,
   "make_zui": false,
-  "make_super": true,
+  "make_super": false,
   "upload_transfer": true,
   "upload_artifact": false
 }
